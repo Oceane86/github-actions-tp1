@@ -21,7 +21,7 @@ jobs:
       - name: Evaluate model 
         run: python metrics.py 
       - name: Upload metrics 
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v3
         with: 
           name: model-metrics 
           path: metrics.json 
