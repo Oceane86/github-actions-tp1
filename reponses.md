@@ -44,12 +44,3 @@ FAILED test_model.py::test_predict_positive - AssertionError: assert 'positif' =
   ?       ^
 ========================= 1 failed, 2 passed in 0.03s ==========================
 
-
-
-14.  Que constates-tu après le push ?
-
-![capture workflow_test](/assets/1_workflow_test.PNG)
-
-
-18. Crée une nouvelle branche, fais-y des modifications, puis crée une Pull Request. 
- Que se passe-t-il avec ton workflow de commentaires ?
