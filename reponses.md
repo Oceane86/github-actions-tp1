@@ -14,3 +14,4 @@ Il y a un workflow qui a été créer dans mon repository qui porte le nom de "H
 Il y a un nouveau workflow qui a été créer, qui s'appelle Run Tests
 
 11. Modifie le fichier model.py pour introduire un bug (change le retour de "positive" à "positif" par exemple). Que se passe-t-il lors du prochain push ?
+
