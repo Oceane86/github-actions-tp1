@@ -46,8 +46,18 @@ FAILED test_model.py::test_predict_positive - AssertionError: assert 'positif' =
 
 
 
+
 18. Crée une nouvelle branche, fais-y des modifications, puis crée une Pull Request. 
  Que se passe-t-il avec ton workflow de commentaires ?
 
 
- APRES
+APRES
+
+
+
+21.  Que constates-tu après avoir poussé ces modifications ?
+
+# GitHub Actions TP
+
+![Build Status](/assets/ajout_bagde.PNG)
+
