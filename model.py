@@ -1,4 +1,4 @@
-# .github/workflows/models.py
+# .github/workflows/model.py
 
 def predict_sentiment(text): 
     if not text: 
